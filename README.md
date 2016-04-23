@@ -1,7 +1,6 @@
-== PROJETO INCIAL DE CONSULTA A API VIACEP ==
-
-+ Com verificador se existe conexão
-+ consulta API Rest * async
+== PROJETO NO QUAL VERIFICA CONEXAO COM INTERNET VIA FRAMEWORK AFNETworking ==
 
 
-obs:projeto será melhorado com o tempo.
+
+https://github.com/AFNetworking/AFNetworking
+
