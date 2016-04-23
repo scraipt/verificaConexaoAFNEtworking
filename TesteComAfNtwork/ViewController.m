@@ -27,13 +27,11 @@
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
 }
 
 - (IBAction)btnVerifica:(id)sender {
     if (self.ConexaoAtiva == true) {
-        NSLog(@"tem conexao");
-        
+        NSLog(@"tem conexao");        
     }else {
         NSLog(@"não tem conexao");
     }
